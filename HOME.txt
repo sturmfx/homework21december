@@ -1,0 +1,4 @@
+YOUR SHIP - 50 x 50 px
+ENEMY SHIP - 100 x 100 px
+MAP 1920 x 1080 px
+BULLET 20 x 20 px
